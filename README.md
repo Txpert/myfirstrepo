@@ -31,7 +31,7 @@
 • Erstelle eine neue Datei in VSC, z. B. index.html, und füge einen einfachen HTML-Code hinzu:
 
 
-HTML```
+```HTML
 <!DOCTYPE html>
 <html>
 <head>
