@@ -102,7 +102,6 @@ Thumbs.db
 node_modules/
 ```
 
-  
 
 3. **Speichere die Datei und committe sie:**
 
