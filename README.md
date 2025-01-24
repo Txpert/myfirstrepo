@@ -30,6 +30,8 @@
 
 • Erstelle eine neue Datei in VSC, z. B. index.html, und füge einen einfachen HTML-Code hinzu:
 
+
+HTML```
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,6 +41,10 @@
     <h1>Hallo GitHub!</h1>
 </body>
 </html>
+```
+
+
+
 . **Dateien tracken und committen:**
 
 • Gehe im VSC zum **Source Control**-Tab (Git-Symbol in der linken Seitenleiste).
